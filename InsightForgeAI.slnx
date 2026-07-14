@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/1.Domain/">
+    <Project Path="src/1.Domain/InsightForgeAI.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/2.Application/">
+    <Project Path="src/2.Application/InsightForgeAI.Application.csproj" />
+  </Folder>
+  <Folder Name="/src/3.Infrastructure/">
+    <Project Path="src/3.Infrastructure/InsightForgeAI.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/4.Presentation/">
+    <Project Path="src/4.Presentation/InsightForgeAI.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/InsightForgeAI.Tests.csproj" />
+  </Folder>
+</Solution>
